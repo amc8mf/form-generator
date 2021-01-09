@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.form-group {
+	padding-bottom: 20px;
+}
+
+.inline-btn {
+	padding-left: 4%;
+}
+
+.btn {
+	vertical-align: unset;
+}
+
+.radio-label, .text-area-label {
+	vertical-align: top;
+}
+
+
+
